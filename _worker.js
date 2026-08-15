@@ -1,12 +1,12 @@
 
 let 快速订阅访问入口 = ['auto'];
 let addresses = [];
-let addressesapi = [https://raw.githubusercontent.com/5ibm/WorkerVless2sub/refs/heads/main/addressesapi.txt];
+let addressesapi = ['https://raw.githubusercontent.com/5ibm/WorkerVless2sub/refs/heads/main/addressesapi.txt'];
 
 let addressesnotls = [];
 let addressesnotlsapi = [];
 
-let addressescsv = [https://raw.githubusercontent.com/5ibm/WorkerVless2sub/refs/heads/main/addressescsv.csv];
+let addressescsv = ['https://raw.githubusercontent.com/5ibm/WorkerVless2sub/refs/heads/main/addressescsv.csv'];
 let DLS = 7;
 let remarkIndex = 1;//CSV备注所在列偏移量
 
